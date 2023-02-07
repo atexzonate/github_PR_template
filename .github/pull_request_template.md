@@ -1,4 +1,4 @@
-## Summary:
+## Summary
 _Provides an overview ...._
 
 
@@ -29,3 +29,4 @@ _Add more information about PR_
  - [ ] Add test cases
  - [ ] Add Screenshots
  - [ ] Add translations(if available)
+ - [ ] Jira ticket reference
